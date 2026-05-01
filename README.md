@@ -77,3 +77,4 @@ Progres pengerjaan saat ini mencapai **±90%**. Berikut adalah rincian fasenya:
 Saat ini aplikasi sudah berhasil menjalankan fungsi AI Chatbot dengan stabil menggunakan model Gemini 2.5. Fokus pengembangan selanjutnya adalah penyempurnaan fitur **Scanner Foto** dan sinkronisasi **Database Profil** agar saran yang diberikan AI semakin akurat sesuai kondisi fisik pengguna.
 
 ---
+
